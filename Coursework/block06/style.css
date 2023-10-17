@@ -1,0 +1,63 @@
+.title {
+    border-style:solid;
+    border-color:black;
+    width: 632px;
+    text-align: center;
+    background-color:#1c9b00;
+    padding: 10px;
+}   /* all elements with class~=title */
+.box-1 { 
+    text-align: center;
+    width: 400px;
+    background-color: antiquewhite;
+    margin-bottom: 1%;
+    padding: 10px;
+    border-style: solid
+}  /* all elements with class~=box-1 */
+.canned { 
+    height: 150px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-bottom: 1%;
+    padding: 0px;
+    border-style:solid
+}  /* all elements with class~=canned */
+.dry {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 172px;
+    left: 227px;
+    background-color:#d291f6;
+    margin-bottom: 1%;
+    padding: 0px;
+    border-style:solid;
+}   /* all elements with class~=dry */
+.freezer {
+    text-align: center;
+    width: 420px;
+    margin-top: 30px;
+    background-color:#7292f9;
+    margin-bottom: 1%;
+    padding: 0px;
+    border-style:solid;
+}   /* all elements with class~=freezer */
+.veggies { 
+    height: 150px;
+    width: 200px;
+    background-color: #5cdd68;
+    margin-bottom: 1%;
+    padding: 0px;
+    border-style:solid
+}  /* all elements with class~=veggies */
+.snacks {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    bottom: 130px;
+    left: 227px;
+    background-color:#edff4b;
+    margin-bottom: 1%;
+    padding: 0px;
+    border-style:solid;
+}   /* all elements with class~=snacks */
